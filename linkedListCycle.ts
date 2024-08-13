@@ -1,4 +1,4 @@
-import { ListNode } from "./oddEvenList";
+import { ListNode } from "./ListNode";
 
 function hasCycle(head: ListNode | null): boolean {
   if (!head) return false;
